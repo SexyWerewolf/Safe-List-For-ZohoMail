@@ -2,7 +2,7 @@
 ###### WARNING!!! ######
 ########################
 
-###### This Blacklist WILL Brake Windows Services e.g: Updates, Microsoft Store, Onedrive. ######
+###### This Blacklist WILL Break Windows Services e.g: Updates, Microsoft Store, Onedrive. ######
 
 
 
@@ -154,22 +154,22 @@
 142.250.185.227
 142.250.185.228
 142.250.185.238
-#142.250.185.67 # This Will Brake connectivitycheck.gstatic.com
+#142.250.185.67 # This Will Break connectivitycheck.gstatic.com
 142.250.185.68
 142.250.186.100
 142.250.186.110
 142.250.186.132
 142.250.186.142
-#142.250.186.163 # This Will Brake connectivitycheck.gstatic.com
+#142.250.186.163 # This Will Break connectivitycheck.gstatic.com
 142.250.186.164
 142.250.186.174
 142.250.186.35
 142.250.186.36
 142.250.186.46
-#142.250.186.67 # This Will Brake connectivitycheck.gstatic.com
+#142.250.186.67 # This Will Break connectivitycheck.gstatic.com
 142.250.186.68
 142.250.186.78
-#142.250.186.99 # This Will Brake connectivitycheck.gstatic.com
+#142.250.186.99 # This Will Break connectivitycheck.gstatic.com
 142.250.187.132
 142.250.187.164
 142.250.187.99
@@ -662,10 +662,10 @@
 204.79.197.239
 212.205.77.136
 212.205.77.139
-#216.58.206.35 # This Will Brake connectivitycheck.gstatic.com
+#216.58.206.35 # This Will Break connectivitycheck.gstatic.com
 216.58.206.36
 216.58.206.46
-#216.58.206.67 # This Will Brake Some PayDay3 Server
+#216.58.206.67 # This Will Break Some PayDay3 Server
 216.58.206.68
 216.58.206.78
 216.58.212.131
@@ -930,7 +930,7 @@
 23.32.238.194
 23.32.238.195
 23.32.238.200
-#23.32.238.201 # This Will Brake Some PayDay3 Server
+#23.32.238.201 # This Will Break Some PayDay3 Server
 23.32.238.202
 23.32.238.203
 23.32.238.208
