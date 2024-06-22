@@ -1,7 +1,9 @@
 ###### This Blacklist WILL Break Windows Services e.g: Updates, Microsoft Store, Onedrive. ######
 #################################################################################################
+#142.250.181.227 # This Will Break connectivitycheck.gstatic.com
 #142.250.184.195 # This Will Break connectivitycheck.gstatic.com
 #142.250.185.131 # This Will Break connectivitycheck.gstatic.com
+#142.250.185.163 # This Will Break connectivitycheck.gstatic.com
 #142.250.185.67 # This Will Break connectivitycheck.gstatic.com
 #142.250.186.163 # This Will Break connectivitycheck.gstatic.com
 #142.250.186.67 # This Will Break connectivitycheck.gstatic.com
@@ -10,8 +12,8 @@
 #172.217.16.195 # This Will Break connectivitycheck.gstatic.com
 #172.217.18.99 # This Will Break connectivitycheck.gstatic.com
 #216.58.206.35 # This Will Break connectivitycheck.gstatic.com
-#216.58.206.67
-#23.32.238.201
+#216.58.206.67 # This Will Break connectivitycheck.gstatic.com
+#23.32.238.201 # This Will Break connectivitycheck.gstatic.com
 10.129.4.60
 10.129.80.53
 10.130.244.83
@@ -153,7 +155,6 @@
 131.253.33.239
 138.91.171.81
 142.250.177.14
-142.250.181.227
 142.250.181.228
 142.250.181.238
 142.250.184.195
@@ -166,7 +167,6 @@
 142.250.185.110
 142.250.185.132
 142.250.185.142
-142.250.185.163
 142.250.185.164
 142.250.185.174
 142.250.185.195
