@@ -16,6 +16,7 @@
 #23.32.238.201 # This Will Break connectivitycheck.gstatic.com
 #142.250.74.206 # This Will Break YouTube.COM
 #142.250.186.46 # This Will Break YouTube.COM
+#142.250.185.238 # This Will Break YouTube.COM
 #54.255.211.244
 10.129.4.60
 10.129.80.53
@@ -176,7 +177,6 @@
 142.250.185.206
 142.250.185.227
 142.250.185.228
-142.250.185.238
 142.250.185.68
 142.250.185.99
 142.250.186.100
