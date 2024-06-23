@@ -24,6 +24,7 @@
 #172.217.18.110 # This Will Break YouTube.COM
 #172.217.18.3 # This Will Break connectivitycheck.gstatic.com
 #13.107.246.60 # This Will Break openaiapi-site.azureedge.net
+#142.250.185.99 # This Will Break connectivitycheck.gstatic.com
 #54.255.211.244
 1.1.168.192
 10.129.4.60
@@ -190,7 +191,6 @@
 142.250.185.228
 142.250.185.68
 142.250.185.78
-142.250.185.99
 142.250.186.100
 142.250.186.110
 142.250.186.131
