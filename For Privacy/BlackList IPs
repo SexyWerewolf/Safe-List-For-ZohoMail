@@ -4,6 +4,7 @@
 #142.250.184.195 # This Will Break connectivitycheck.gstatic.com
 #142.250.185.131 # This Will Break connectivitycheck.gstatic.com
 #142.250.185.163 # This Will Break connectivitycheck.gstatic.com
+#142.250.185.227 # This Will Break fonts.gstatic.com
 #142.250.185.238 # This Will Break YouTube.COM
 #142.250.185.67 # This Will Break connectivitycheck.gstatic.com
 #142.250.186.163 # This Will Break connectivitycheck.gstatic.com
@@ -182,7 +183,6 @@
 142.250.185.195
 142.250.185.196
 142.250.185.206
-142.250.185.227
 142.250.185.228
 142.250.185.68
 142.250.185.78
