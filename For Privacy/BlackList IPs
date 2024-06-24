@@ -1,32 +1,33 @@
 ###### This Blacklist WILL Break Windows Services e.g: Updates, Microsoft Store, Onedrive. ######
 #################################################################################################
+#13.107.246.60 # This Will Break openaiapi-site.azureedge.net
 #142.250.181.227 # This Will Break connectivitycheck.gstatic.com
+#142.250.181.238 # This Will Break YouTube.COM
 #142.250.184.195 # This Will Break connectivitycheck.gstatic.com
+#142.250.184.238 This Will Break YouTube
 #142.250.185.131 # This Will Break connectivitycheck.gstatic.com
 #142.250.185.163 # This Will Break connectivitycheck.gstatic.com
 #142.250.185.227 # This Will Break fonts.gstatic.com
 #142.250.185.238 # This Will Break YouTube.COM
 #142.250.185.67 # This Will Break connectivitycheck.gstatic.com
+#142.250.185.99 # This Will Break connectivitycheck.gstatic.com
 #142.250.186.163 # This Will Break connectivitycheck.gstatic.com
 #142.250.186.46 # This Will Break YouTube.COM
 #142.250.186.67 # This Will Break connectivitycheck.gstatic.com
 #142.250.186.78 # This Will Break YouTube.COM
 #142.250.186.99 # This Will Break connectivitycheck.gstatic.com
 #142.250.74.206 # This Will Break YouTube.COM
-#216.58.206.78 # This Will Break YouTube.COM
 #172.217.16.131 # This Will Break connectivitycheck.gstatic.com
 #172.217.16.195 # This Will Break connectivitycheck.gstatic.com
-#172.217.18.99 # This Will Break connectivitycheck.gstatic.com
-#216.58.206.35 # This Will Break connectivitycheck.gstatic.com
-#216.58.206.67 # This Will Break connectivitycheck.gstatic.com
-#23.32.238.201 # This Will Break connectivitycheck.gstatic.com
-#216.58.206.46 # This Will Break YouTube.COM
 #172.217.18.110 # This Will Break YouTube.COM
 #172.217.18.3 # This Will Break connectivitycheck.gstatic.com
-#13.107.246.60 # This Will Break openaiapi-site.azureedge.net
-#142.250.185.99 # This Will Break connectivitycheck.gstatic.com
-#142.250.181.238 # This Will Break YouTube.COM
-#192.229.221.95
+#172.217.18.99 # This Will Break connectivitycheck.gstatic.com
+#192.229.221.95 # This Will Break ocsp.digicert.com 
+#216.58.206.35 # This Will Break connectivitycheck.gstatic.com
+#216.58.206.46 # This Will Break YouTube.COM
+#216.58.206.67 # This Will Break connectivitycheck.gstatic.com
+#216.58.206.78 # This Will Break YouTube.COM
+#23.32.238.201 # This Will Break connectivitycheck.gstatic.com
 #54.255.211.244
 1.1.168.192
 10.129.4.60
@@ -53,6 +54,7 @@
 104.126.37.155
 104.126.37.160
 104.126.37.161
+104.126.37.162
 104.126.37.163
 104.126.37.168
 104.126.37.170
@@ -175,13 +177,14 @@
 138.91.171.81
 142.250.177.14
 142.250.181.228
+142.250.184.195
 142.250.184.196
 142.250.184.206
 142.250.184.227
 142.250.184.228
-142.250.184.238
 142.250.185.100
 142.250.185.110
+142.250.185.131
 142.250.185.132
 142.250.185.142
 142.250.185.164
@@ -190,6 +193,7 @@
 142.250.185.196
 142.250.185.206
 142.250.185.228
+142.250.185.67
 142.250.185.68
 142.250.185.78
 142.250.186.100
@@ -379,6 +383,8 @@
 199.232.38.172
 2.16.10.176
 2.16.10.179
+2.16.10.184
+2.16.10.185
 2.16.100.138
 2.16.100.152
 2.16.100.155
@@ -434,6 +440,7 @@
 2.19.11.153
 2.19.11.154
 2.19.11.155
+2.19.11.178
 2.19.122.199
 2.19.122.205
 2.19.122.214
@@ -480,6 +487,7 @@
 2.21.20.132
 2.21.20.134
 2.21.20.135
+2.21.20.136
 2.21.20.138
 2.21.20.139
 2.21.20.140
@@ -756,6 +764,7 @@
 23.0.199.167
 23.1.108.60
 23.1.109.218
+23.10.249.16
 23.10.249.35
 23.101.168.44
 23.102.129.60
@@ -1040,6 +1049,7 @@
 23.35.236.109
 23.35.237.194
 23.35.238.131
+23.36.162.70
 23.36.163.10
 23.36.163.18
 23.36.163.29
@@ -1639,6 +1649,7 @@
 92.123.104.36
 92.123.104.37
 92.123.104.38
+92.123.104.39
 92.123.104.4
 92.123.104.40
 92.123.104.41
@@ -1653,9 +1664,12 @@
 92.123.104.51
 92.123.104.52
 92.123.104.53
+92.123.104.54
 92.123.104.56
+92.123.104.57
 92.123.104.58
 92.123.104.59
+92.123.104.6
 92.123.104.60
 92.123.104.61
 92.123.104.62
